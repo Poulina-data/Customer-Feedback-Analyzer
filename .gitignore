@@ -1,0 +1,24 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/Reviews.csv
+data/processed/cleaned_reviews.csv
+
+# Large Word2Vec model
+models/word2vec.model
